@@ -1,0 +1,1 @@
+- Bài này hiển thị dự báo thời tiết của các tình thành phố lấp API từ openweathermap
